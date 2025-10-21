@@ -12,7 +12,8 @@
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table of Contents   
+-[Know more about web Scraper](scraper/scraper_technical_doc.md)
 
 - [Overview](#-overview)
 - [Features](#-features)
