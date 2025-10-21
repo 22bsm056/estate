@@ -1,0 +1,22 @@
+# Core Dependencies for Delhi Real Estate Price Prediction App
+# ============================================================
+
+# Streamlit Framework
+streamlit==1.50.0
+
+# Data Processing
+pandas==2.3.3
+numpy==2.0.2
+
+# Machine Learning
+scikit-learn==1.7.2
+xgboost==3.1.0
+
+# Visualization
+plotly==6.3.1
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Utilities
+python-dateutil==2.9.0.post0
+pytz
